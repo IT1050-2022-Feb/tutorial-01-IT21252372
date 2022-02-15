@@ -52,7 +52,7 @@ int maximum(int no1, int no2)
 
 int multiply(int no1, int no2)
 {
-  int x;
-  x= no1 * no2;
-  return x;
+  int M;
+  M= no1 * no2;
+  return M;
 }
