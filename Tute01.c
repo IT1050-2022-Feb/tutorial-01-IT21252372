@@ -4,8 +4,7 @@
 
 #include <stdio.h>
 
-int main() 
-{
+int main() {
   int mark1, mark2;
   float avg;
 
